@@ -4,6 +4,9 @@
   "devDependencies": {
     "turbo": "canary"
   },
+  "scripts": {
+    "dev": "turbo run dev"
+  },
   "packageManager": "npm@10.1.0",
   "workspaces": [
     "apps/*",
